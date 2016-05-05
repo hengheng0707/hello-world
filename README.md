@@ -1,4 +1,6 @@
 # hello-world
-A repository with ideas
+The lab repository for novel ideas/roadmaps/on-going write-ups
 
-This is a repository for lab purpose. I start learning how to use GitHub now and really enjoy it so far.
+Starting from 2016-05-05, moving all the write-ups related to my pet projects to this repository for tracking changes and learning how to use github.
+
+
